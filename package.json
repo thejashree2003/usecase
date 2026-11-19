@@ -1,0 +1,12 @@
+{
+  "name": "scrum-101-checkout-qa",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:chromium": "playwright test --project=chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "exceljs": "^4.4.0"
+  }
+}

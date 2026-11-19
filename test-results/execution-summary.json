@@ -1,0 +1,15 @@
+{
+  "userStory": "SCRUM-101",
+  "applicationUrl": "https://www.saucedemo.com",
+  "browser": "chromium",
+  "designedTestCases": 10,
+  "automatedTestCases": 3,
+  "manualPass": 3,
+  "manualFail": 0,
+  "manualBlocked": 2,
+  "manualNotExecuted": 5,
+  "automationPass": 3,
+  "automationFail": 0,
+  "automationSkipped": 0,
+  "confirmedApplicationDefects": 0
+}
