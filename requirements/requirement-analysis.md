@@ -1,5 +1,6 @@
 # SCRUM-101 Requirement Analysis
 
+- **Jira Issue:** KAN-4
 - **User Story ID:** SCRUM-101
 - **Title:** E-commerce Checkout Process
 - **Business Objective:** Allow a logged-in customer to review and complete an online purchase.

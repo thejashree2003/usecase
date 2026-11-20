@@ -1,6 +1,7 @@
 # Saucedemo Checkout Test Plan
 
-**Plan ID:** TP-SCRUM-101  
+**Plan ID:** TP-KAN-4-SCRUM-101
+**Jira Issue:** KAN-4
 **Story:** SCRUM-101 - E-commerce Checkout Process
 
 ## Scope

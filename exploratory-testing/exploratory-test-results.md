@@ -1,5 +1,6 @@
 # Exploratory Testing Results
 
+**Jira Source:** https://thejashreetheja03.atlassian.net/browse/KAN-4
 **Application:** https://www.saucedemo.com  
 **Browser:** Chromium  
 **Date:** 2026-11-20
